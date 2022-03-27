@@ -1,0 +1,28 @@
+body {
+  background-color: #FFFDDE;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%;
+}
+
+h1 {
+  color: #FFC900;
+}
+h2 {
+  color: #CCA8E9;
+}
+h3 {
+  color: #CCA8E9;
+}
+h5 {
+  color: #B762C1;
+}
+
+.circular {
+  border-radius: 25%;
+}
